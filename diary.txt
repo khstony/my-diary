@@ -1,2 +1,3 @@
 Today I learned some git basics
 Learned git add and commit later on....
+On third day, just noticed git diff cmd
