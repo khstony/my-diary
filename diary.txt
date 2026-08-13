@@ -1,1 +1,4 @@
-Known branch
+Today I learned smth called git
+also learned git add commit thingy
+git diff to check some differences
+branch is flamable.
