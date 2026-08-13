@@ -1,1 +1,2 @@
 name : blury
+I'''do ma vese
